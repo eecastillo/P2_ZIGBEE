@@ -1,0 +1,8 @@
+/*
+ * TemperatureMeasurement.c
+ *
+ *  Created on: Nov 17, 2020
+ *      Author: eduar
+ */
+
+#include "TemperatureMeasurement.h"

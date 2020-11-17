@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 2 resources" deleteContents="false" description="Delete 2 resources" element1="/router_wireless_examples_zigbee_3_0_router_freertos/source/TemperatureMeasurement.c" element2="/router_wireless_examples_zigbee_3_0_router_freertos/source/TemperatureMeasurement.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1605652665030"/>
+</session>

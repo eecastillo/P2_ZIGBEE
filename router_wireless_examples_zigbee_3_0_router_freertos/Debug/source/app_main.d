@@ -78,6 +78,7 @@ source/app_main.o source/app_main.d: ../source/app_main.c \
  D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcif\Include/zcl.h \
  D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\General\Include/Groups.h \
  D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\General\Include/OnOff.h \
+ D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\MeasurementAndSensing\Include/TemperatureMeasurement.h \
  D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\base\pdm\include/PDM.h \
  ../source/app_router_node.h ../source/zcl_options.h \
  D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\source\common/app_common.h \
@@ -241,6 +242,8 @@ D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\z
 D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\General\Include/Groups.h:
 
 D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\General\Include/OnOff.h:
+
+D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\MeasurementAndSensing\Include/TemperatureMeasurement.h:
 
 D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\base\pdm\include/PDM.h:
 

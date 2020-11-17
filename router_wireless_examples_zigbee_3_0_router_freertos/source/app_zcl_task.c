@@ -665,6 +665,10 @@ PRIVATE void APP_vZCL_DeviceSpecific_Init(void)
        FLib_MemCpy(sBaseDeviceTemp.sBasicServerCluster.au8DateCode, "20170310", CLD_BAS_DATE_SIZE);
        FLib_MemCpy(sBaseDeviceTemp.sBasicServerCluster.au8SWBuildID, "1000-0001", CLD_BAS_SW_BUILD_SIZE);
 
+       sBaseDeviceTemp.sTemperatureMeasurementServerCluster.i16MeasuredValue = 0;
+       sBaseDeviceTemp.sTemperatureMeasurementServerCluster.i16MinMeasuredValue = 0;
+       sBaseDeviceTemp.sTemperatureMeasurementServerCluster.i16MaxMeasuredValue = 0;
+
     #ifdef CLD_BAS_ATTR_MANUFACTURER_VERSION_DETAILS
     FLib_MemCpy(sBaseDevice.sBasicServerCluster.au8ManufacturerVersionDetails, "Zigbee_Version_3.0", CLD_BAS_MANUFACTURER_VERSION_SIZE);
     #endif

@@ -41,6 +41,7 @@ zigbee_3_0/core/zcl/devices/ZHA/SecurityAndSafety/Source/zone.o \
  D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\General\Include/Identify.h \
  D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcif\Include/dlist.h \
  D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcif\Include/zcl_customcommand.h \
+ D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\MeasurementAndSensing\Include/TemperatureMeasurement.h \
  D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\General\Include/Groups.h \
  D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\General\Include/Scenes.h \
  D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\SecurityAndSafety\Include/IASZone.h
@@ -124,6 +125,8 @@ D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\z
 D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcif\Include/dlist.h:
 
 D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcif\Include/zcl_customcommand.h:
+
+D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\MeasurementAndSensing\Include/TemperatureMeasurement.h:
 
 D:\RSEO\ZIGBEE\Practica\ 3\router_wireless_examples_zigbee_3_0_router_freertos\zigbee_3_0\core\zcl\clusters\General\Include/Groups.h:
 

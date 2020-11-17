@@ -32,6 +32,21 @@ extern "C" {
 #include "OTA.h"
 #endif
 
+// Temperature Measurement header files
+#ifdef CLD_TEMPERATURE_MEASUREMENT
+#include "TemperatureMeasurement.h"
+#endif
+
+/* Temperature Measurement Instance */
+#if (defined CLD_TEMPERATURE_MEASUREMENT) && (defined TEMPERATURE_MEASUREMENT_SERVER)
+ tsZCL_ClusterInstance sTemperatureMeasurementServer;
+#endif
+
+
+#if (defined CLD_TEMPERATURE_MEASUREMENT) && (defined TEMPERATURE_MEASUREMENT_SERVER)
+ tsCLD_TemperatureMeasurement sTemperatureMeasurementServerCluster;
+#endif
+
 /****************************************************************************/
 /***        Macro Definitions                                             ***/
 /****************************************************************************/

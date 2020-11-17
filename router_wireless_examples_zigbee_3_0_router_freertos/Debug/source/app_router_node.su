@@ -4,8 +4,8 @@ app_router_node.c:235:13:APP_vBdbCallback	32	static
 app_router_node.c:309:13:APP_taskRouter	64	static
 app_router_node.c:403:13:APP_vOobcSetRunning	8	static
 app_router_node.c:420:14:vAppHandleAfEvent	16	static
-app_router_node.c:459:14:vAppHandleZdoEvents	56	static
-app_router_node.c:625:13:APP_vFactoryResetRecords	24	static
-app_router_node.c:667:14:APP_vBdbInit	16	static
-app_router_node.c:737:14:vPrintAPSTable	40	static
-app_router_node.c:788:14:app_u8GetDeviceEndpoint	8	static
+app_router_node.c:460:14:vAppHandleZdoEvents	56	static
+app_router_node.c:626:13:APP_vFactoryResetRecords	24	static
+app_router_node.c:668:14:APP_vBdbInit	16	static
+app_router_node.c:738:14:vPrintAPSTable	40	static
+app_router_node.c:789:14:app_u8GetDeviceEndpoint	8	static
