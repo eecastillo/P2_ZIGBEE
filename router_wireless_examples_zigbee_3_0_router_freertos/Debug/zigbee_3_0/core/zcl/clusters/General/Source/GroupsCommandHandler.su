@@ -1,0 +1,10 @@
+GroupsCommandHandler.c:150:22:eCLD_GroupsCommandHandler	96	static
+GroupsCommandHandler.c:337:23:eCLD_GroupsHandleAddGroupRequest	88	static
+GroupsCommandHandler.c:561:23:eCLD_GroupsHandleViewGroupRequest	96	static
+GroupsCommandHandler.c:666:23:eCLD_GroupsHandleGetGroupMembershipRequest	160	static
+GroupsCommandHandler.c:796:23:eCLD_GroupsHandleRemoveGroupRequest	88	static
+GroupsCommandHandler.c:912:23:eCLD_GroupsHandleRemoveAllGroupsRequest	64	static
+GroupsCommandHandler.c:990:23:eCLD_GroupsHandleAddGroupResponse	56	static
+GroupsCommandHandler.c:1045:23:eCLD_GroupsHandleViewGroupResponse	64	static
+GroupsCommandHandler.c:1110:23:eCLD_GroupsHandleGetGroupMembershipResponse	88	static
+GroupsCommandHandler.c:1181:23:eCLD_GroupsHandleRemoveGroupResponse	56	static

@@ -1,0 +1,10 @@
+bdb_ns.c:699:14:vNsSendPermitJoin	40	static
+bdb_ns.c:467:14:vNsDiscoverNwk	96	static
+bdb_ns.c:817:14:vNsTclkSendReqKey	8	static
+bdb_ns.c:627:14:vNsAfterNwkJoin	88	static
+bdb_ns.c:671:14:vNsLeaveNwk	16	static
+bdb_ns.c:760:14:vNsTclkSendNodeDescReq	48	static
+bdb_ns.c:550:14:vNsTryNwkJoin.isra.0	40	static
+bdb_ns.c:112:21:BDB_eNsStartNwkSteering	88	static
+bdb_ns.c:189:13:BDB_vNsStateMachine	168	static
+bdb_ns.c:382:13:BDB_vNsTimerCb	16	static

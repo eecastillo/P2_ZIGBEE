@@ -1,0 +1,2 @@
+zcl_discoverAttributesExtendedRequestHandle.c:75:15:vZCL_HandleAttributesDiscoverExtendedRequest	120	static
+zcl_discoverAttributesExtendedRequestHandle.c:274:22:eZCL_SearchForClosestAttributeEntry	40	static

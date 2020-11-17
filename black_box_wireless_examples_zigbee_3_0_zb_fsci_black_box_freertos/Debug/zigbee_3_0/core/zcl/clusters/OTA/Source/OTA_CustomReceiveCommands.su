@@ -1,0 +1,5 @@
+OTA_CustomReceiveCommands.c:673:22:eOtaReceivedQuerySpecificFileRequest	128	static
+OTA_CustomReceiveCommands.c:752:22:eOtaReceivedQueryNextImage	128	static
+OTA_CustomReceiveCommands.c:839:22:eOtaReceivedPageRequest	8	static
+OTA_CustomReceiveCommands.c:979:22:eOtaReceivedBlockRequest	200	static
+OTA_CustomReceiveCommands.c:1120:22:eOtaReceivedUpgradeEndRequest	112	static

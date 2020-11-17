@@ -1,0 +1,5 @@
+OTA_common.c:81:14:vOtaFlashInitHw	16	static
+OTA_common.c:99:14:vOtaFlashErase	16	static
+OTA_common.c:120:14:vOtaFlashWrite	24	static
+OTA_common.c:142:14:vOtaFlashRead	24	static
+OTA_common.c:164:14:vOtaSwitchLoads	8	static

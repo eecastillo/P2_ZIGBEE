@@ -1,0 +1,5 @@
+IdentifyCommandHandler.c:128:22:eCLD_IdentifyCommandHandler	48	static
+IdentifyCommandHandler.c:273:23:eCLD_IdentifyHandleIdentifyRequest	48	static
+IdentifyCommandHandler.c:332:23:eCLD_IdentifyHandleIdentifyQueryRequest	80	static
+IdentifyCommandHandler.c:467:23:eCLD_IdentifyHandleIdentifyTriggerEffectRequest	48	static
+IdentifyCommandHandler.c:554:23:eCLD_IdentifyHandleIdentifyQueryResponse	48	static

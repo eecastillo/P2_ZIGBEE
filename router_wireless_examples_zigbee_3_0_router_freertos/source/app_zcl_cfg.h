@@ -129,6 +129,7 @@
 /* Endpoints */
 #define ROUTER_ZDO_ENDPOINT    (0)
 #define ROUTER_APPLICATION_ENDPOINT    (1)
+#define ROUTER_TEMPERATURE_ENDPOINT	   (2)
 /****************************************************************************/
 /***        Type Definitions                                              ***/
 /****************************************************************************/

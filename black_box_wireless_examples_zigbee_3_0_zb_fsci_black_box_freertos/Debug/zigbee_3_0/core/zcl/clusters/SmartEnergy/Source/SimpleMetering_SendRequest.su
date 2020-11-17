@@ -1,0 +1,2 @@
+SimpleMetering_SendRequest.c:415:22:eSM_ServerRequestMirrorCommand	64	static
+SimpleMetering_SendRequest.c:476:22:eSM_ServerRemoveMirrorCommand	64	static

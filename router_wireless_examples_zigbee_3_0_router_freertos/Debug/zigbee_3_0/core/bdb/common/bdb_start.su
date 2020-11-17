@@ -1,0 +1,14 @@
+bdb_start.c:125:13:BDB_vInit	24	static
+bdb_start.c:188:15:BDB_bIsBaseIdle	8	static
+bdb_start.c:251:13:BDB_vStart	8	static
+bdb_start.c:256:13:BDB_vRestart	8	static
+bdb_start.c:262:14:bdb_vStart	104	static
+bdb_start.c:346:13:BDB_vInitStateMachine	16	static
+bdb_start.c:384:14:BDB_u8PickChannel	40	static
+bdb_start.c:453:13:BDB_vRejoinCycle	128	static
+bdb_start.c:615:13:BDB_vRejoinSuccess	104	static
+bdb_start.c:669:14:vInitAttribs	24	static
+bdb_start.c:791:13:BDB_vRejoinTimerCb	16	static
+bdb_start.c:811:13:BDB_vSetRejoinFilter	24	static
+bdb_start.c:847:13:BDB_vSetAssociationFilter	8	static
+bdb_start.c:887:13:BDB_vRegisterRejoinControl	16	static

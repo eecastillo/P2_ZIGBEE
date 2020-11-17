@@ -1,0 +1,8 @@
+pdm.c:98:21:PDM_eReadDataFromRecord	8	static
+pdm.c:129:21:PDM_eSaveRecordData	8	static
+pdm.c:160:13:PDM_vCompletePendingOperations	8	static
+pdm.c:235:13:PDM_vDeleteAllDataRecords	8	static
+pdm.c:251:6:PDM_GetNVMTableEntry	24	static
+pdm.c:276:6:InitAplRecords	16	static
+pdm.c:313:6:InitNwkRecords	16	static
+pdm.c:175:21:PDM_eInitialise	16	static

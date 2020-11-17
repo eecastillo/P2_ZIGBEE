@@ -1,0 +1,2 @@
+BasicCommandHandler.c:85:21:eCLD_BasicCommandHandler	40	static
+BasicCommandHandler.c:165:22:eCLD_BasicHandleResetToFactoryDefaultsCommand	96	static

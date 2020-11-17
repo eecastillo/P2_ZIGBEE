@@ -1,0 +1,3 @@
+OnOffCommands.c:73:22:eCLD_OnOffCommandSend	48	static
+OnOffCommands.c:115:21:eCLD_OnOffCommandOffWithEffectSend	72	static
+OnOffCommands.c:162:21:eCLD_OnOffCommandOnWithTimedOffSend	80	static

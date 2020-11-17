@@ -1,0 +1,10 @@
+ZTimer.c:73:24:ZTIMER_eInit	16	static
+ZTimer.c:105:13:ZTIMER_vSleep	8	static
+ZTimer.c:120:13:ZTIMER_vWake	8	static
+ZTimer.c:135:13:ZTIMER_vTask	40	static
+ZTimer.c:192:24:ZTIMER_eOpen	40	static
+ZTimer.c:237:24:ZTIMER_eClose	16	static
+ZTimer.c:260:13:ZTIMER_vStopAllTimers	16	static
+ZTimer.c:291:24:ZTIMER_eStart	32	static
+ZTimer.c:328:24:ZTIMER_eStop	16	static
+ZTimer.c:364:23:ZTIMER_eGetState	16	static

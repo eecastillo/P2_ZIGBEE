@@ -1,0 +1,2 @@
+pdum_globals.c:109:13:PDUM_vInit	8	static
+pdum_globals.c:120:14:PDUM_vInitPools	16	static

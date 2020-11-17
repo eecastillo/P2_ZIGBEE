@@ -1,0 +1,6 @@
+GroupsClientCommands.c:80:22:eCLD_GroupsCommandAddGroupRequestSend	80	static
+GroupsClientCommands.c:129:22:eCLD_GroupsCommandViewGroupRequestSend	72	static
+GroupsClientCommands.c:177:22:eCLD_GroupsCommandGetGroupMembershipRequestSend	80	static
+GroupsClientCommands.c:235:22:eCLD_GroupsCommandRemoveGroupRequestSend	72	static
+GroupsClientCommands.c:282:22:eCLD_GroupsCommandRemoveAllGroupsRequestSend	64	static
+GroupsClientCommands.c:325:22:eCLD_GroupsCommandAddGroupIfIdentifyingRequestSend	80	static

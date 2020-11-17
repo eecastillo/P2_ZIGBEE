@@ -1,0 +1,2 @@
+zcl_readReportingConfigurationCommandHandle.c:343:22:eZCL_CalculateSizeOfReportRecord	32	static
+zcl_readReportingConfigurationCommandHandle.c:69:14:vZCL_HandleReadReportingConfigurationCommand	152	static

@@ -1,0 +1,7 @@
+zcl_reportManager.c:77:22:eZCL_CreateReportManager	32	static
+zcl_reportManager.c:219:22:eZCLAddReport	56	static
+zcl_reportManager.c:145:22:eZCL_CreateLocalReport	64	static
+zcl_reportManager.c:432:22:eZCLFindReportEntryByAttributeIdAndDirection	24	static
+zcl_reportManager.c:484:22:eZCL_GetNumberOfFreeReportRecordEntries	8	static
+zcl_reportManager.c:629:13:vZCL_SetDefaultReporting	12	static
+zcl_reportManager.c:673:22:eZCL_SetReportableFlag	48	static

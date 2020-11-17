@@ -1,0 +1,2 @@
+DRLCCommandGetScheduledEvents.c:70:25:eSE_DRLCGetScheduledEventsSend	64	static
+DRLCCommandGetScheduledEvents.c:114:25:eSE_DRLCGetScheduledEventsReceive	72	static

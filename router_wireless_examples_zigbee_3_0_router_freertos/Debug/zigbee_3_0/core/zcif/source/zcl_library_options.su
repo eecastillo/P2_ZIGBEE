@@ -1,0 +1,2 @@
+zcl_library_options.c:108:13:vZCL_HandleEntireProfileCommand	32	static
+zcl_library_options.c:296:21:eZCL_CreateOptionalManagers	32	static

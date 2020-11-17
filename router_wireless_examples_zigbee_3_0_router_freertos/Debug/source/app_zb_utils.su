@@ -1,0 +1,11 @@
+app_zb_utils.c:90:6:APP_vSetMacAddr	184	static
+app_zb_utils.c:137:6:bGetInstallCode	40	static
+app_zb_utils.c:182:6:APP_vSetLedState	16	static
+app_zb_utils.c:213:13:vWriteUIntToBuffer	72	static
+app_zb_utils.c:256:7:pccHandlePlaceHolder	136	static
+app_zb_utils.c:632:6:APP_vPrintfNullImpl	8	static
+app_zb_utils.c:647:6:APP_vPrintf	48	static
+app_zb_utils.c:730:10:hex_str_to_uint	56	static
+app_zb_utils.c:768:10:dec_str_to_uint	48	static
+app_zb_utils.c:796:9:hex_str_to_array	32	static
+app_zb_utils.c:857:6:HardFault_Handler	8	static

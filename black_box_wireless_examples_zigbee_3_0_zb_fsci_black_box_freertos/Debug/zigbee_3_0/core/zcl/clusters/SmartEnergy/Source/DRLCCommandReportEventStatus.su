@@ -1,0 +1,2 @@
+DRLCCommandReportEventStatus.c:74:25:eSE_DRLCGenerateReportEventStatusMessage	168	static
+DRLCCommandReportEventStatus.c:192:25:eSE_DRLCReportEventStatusReceive	224	static

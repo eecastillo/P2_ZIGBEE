@@ -1,0 +1,4 @@
+GroupsServerCommands.c:81:22:eCLD_GroupsCommandAddGroupResponseSend	72	static
+GroupsServerCommands.c:134:22:eCLD_GroupsCommandViewGroupResponseSend	80	static
+GroupsServerCommands.c:188:22:eCLD_GroupsCommandGetGroupMembershipResponseSend	80	static
+GroupsServerCommands.c:246:22:eCLD_GroupsCommandRemoveGroupResponseSend	72	static

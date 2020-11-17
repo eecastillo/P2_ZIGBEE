@@ -1,0 +1,12 @@
+zcl_search.c:67:21:eZCL_SearchForEPentry	32	static
+zcl_search.c:119:21:eZCL_SearchForEPentryAndCheckManufacturerId	32	static
+zcl_search.c:160:21:eZCL_SearchForClusterEntry	40	static
+zcl_search.c:243:24:eZCL_SearchForAttributeEntry	40	static
+zcl_search.c:329:24:eZCL_GetLocalAttributeValue	72	static
+zcl_search.c:448:22:eZCL_ReadLocalAttributeValue	56	static
+zcl_search.c:505:24:eZCL_SetLocalAttributeValue	72	static
+zcl_search.c:633:22:eZCL_WriteLocalAttributeValue	56	static
+zcl_search.c:692:21:eZCL_FindCluster	24	static
+zcl_search.c:739:14:pvZCL_GetAttributePointer	40	static
+zcl_search.c:804:13:vZCL_RegisterCheckForManufCodeCallBack	16	static
+zcl_search.c:824:16:bZCL_IsManufacturerCodeSupported	16	static

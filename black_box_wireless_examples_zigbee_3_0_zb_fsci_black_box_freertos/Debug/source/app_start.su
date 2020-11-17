@@ -1,0 +1,13 @@
+app_start.c:827:8:APP_vProfileWideCommandSupportedForCluster	0	static
+app_start.c:775:6:vfExtendedStatusCallBack	8	static
+app_start.c:907:13:APP_ProcessFsciPkt	8	static
+app_start.c:303:6:APP_cbToggleLED	16	static
+app_start.c:848:14:KBD_Callback	8	static
+app_start.c:791:14:APP_cbTimerZclTick	56	static
+app_start.c:287:6:vAppRegisterPWRMCallbacks	0	static
+app_start.c:340:33:psGetEndpointRecordTable	0	static
+app_start.c:357:30:psGetGroupRecordTable	0	static
+app_start.c:572:13:APP_vInitResources	8	static
+app_start.c:613:13:app_vFormatAndSendUpdateLists	888	static
+app_start.c:200:13:vAppMain	80	static
+app_start.c:461:6:main_task	24	static

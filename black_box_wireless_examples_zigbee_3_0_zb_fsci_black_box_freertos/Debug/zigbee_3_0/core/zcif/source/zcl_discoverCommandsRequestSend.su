@@ -1,0 +1,3 @@
+zcl_discoverCommandsRequestSend.c:187:23:eZCL_SendDiscoverCommandGenericRequest	72	static
+zcl_discoverCommandsRequestSend.c:86:23:eZCL_SendDiscoverCommandReceivedRequest	56	static
+zcl_discoverCommandsRequestSend.c:134:23:eZCL_SendDiscoverCommandGeneratedRequest	56	static

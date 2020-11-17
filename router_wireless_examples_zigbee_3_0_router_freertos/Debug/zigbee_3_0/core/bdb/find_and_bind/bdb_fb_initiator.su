@@ -1,0 +1,14 @@
+bdb_fb_initiator.c:141:21:BDB_eFbTriggerAsInitiator	16	static
+bdb_fb_initiator.c:177:13:BDB_vFbHandleQueryResponse	48	static
+bdb_fb_initiator.c:236:13:vFbZdpHandler	168	static
+bdb_fb_initiator.c:292:13:BDB_vFbExitAsInitiator	8	static
+bdb_fb_initiator.c:316:13:BDB_vFbTimerCb	128	static
+bdb_fb_initiator.c:387:22:eFbStartFbInitiator	32	static
+bdb_fb_initiator.c:430:22:eFbSendIdentifyQuery	48	static
+bdb_fb_initiator.c:476:14:vFbSendIeeeAddrReq	88	static
+bdb_fb_initiator.c:526:14:vFbSendSimpleDescReq	88	static
+bdb_fb_initiator.c:578:14:vFbHandleSimpleDescResp	160	static
+bdb_fb_initiator.c:646:14:vFbBindCluster	200	static
+bdb_fb_initiator.c:765:16:bFbIsOpertationalCluster	16	static
+bdb_fb_initiator.c:835:14:vFbCreateSourceBinding	184	static
+bdb_fb_initiator.c:913:14:vFbSendAddGroupCommand	168	static

@@ -1,0 +1,4 @@
+bdb_fb_target.c:80:21:BDB_eFbTriggerAsTarget	16	static
+bdb_fb_target.c:106:13:BDB_vFbHandleStopIdentification	96	static
+bdb_fb_target.c:141:13:BDB_vFbExitAsTarget	48	static
+bdb_fb_target.c:183:22:eFbStartFbTarget	56	static

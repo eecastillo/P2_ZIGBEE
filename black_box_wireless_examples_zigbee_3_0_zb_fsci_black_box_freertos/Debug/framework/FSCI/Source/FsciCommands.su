@@ -1,0 +1,16 @@
+FsciCommands.c:601:9:FSCI_Ping	0	static
+FsciCommands.c:668:8:FSCI_MsgWriteExtendedAdrReqFunc	0	static
+FsciCommands.c:1006:8:FSCI_OtaSupportHandlerFunc	8	static
+FsciCommands.c:422:8:FSCI_MsgModeSelectReqFunc	24	static
+FsciCommands.c:460:8:FSCI_MsgGetModeReqFunc	32	static
+FsciCommands.c:923:8:FSCI_ReadMCUId	8	static
+FsciCommands.c:618:8:FSCI_MsgResetCPUReqFunc	8	static
+FsciCommands.c:1032:8:FSCI_EnableBootloaderFunc	16	static
+FsciCommands.c:715:8:FSCI_MsgReadExtendedAdrReqFunc	0	static
+FsciCommands.c:316:6:FSCI_Error	24	static
+FsciCommands.c:280:6:fsciMsgHandler	16	static
+FsciCommands.c:499:8:FSCI_WriteMemoryBlock	24	static
+FsciCommands.c:535:8:FSCI_ReadMemoryBlock	40	static
+FsciCommands.c:855:8:FSCI_ReadUniqueId	24	static
+FsciCommands.c:943:8:FSCI_ReadModVer	32	static
+FsciCommands.c:740:8:FSCI_GetLastLqiValue	8	static

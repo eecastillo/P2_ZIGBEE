@@ -1,0 +1,3 @@
+appZpsBeaconHandler.c:89:13:ZPS_bAppAddBeaconFilter	0	static
+appZpsBeaconHandler.c:112:13:ZPS_bAppRemoveBeaconFilter	0	static
+appZpsBeaconHandler.c:136:15:ZPS_bAppPassBeaconToHigherLayer	32	static

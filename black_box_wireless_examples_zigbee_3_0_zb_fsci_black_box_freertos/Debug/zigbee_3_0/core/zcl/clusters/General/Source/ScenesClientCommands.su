@@ -1,0 +1,10 @@
+ScenesClientCommands.c:83:22:eCLD_ScenesCommandAddSceneRequestSend	104	static
+ScenesClientCommands.c:133:22:eCLD_ScenesCommandViewSceneRequestSend	72	static
+ScenesClientCommands.c:179:22:eCLD_ScenesCommandRemoveSceneRequestSend	72	static
+ScenesClientCommands.c:225:22:eCLD_ScenesCommandRemoveAllScenesRequestSend	56	static
+ScenesClientCommands.c:271:22:eCLD_ScenesCommandStoreSceneRequestSend	72	static
+ScenesClientCommands.c:317:22:eCLD_ScenesCommandRecallSceneRequestSend	80	static
+ScenesClientCommands.c:364:22:eCLD_ScenesCommandGetSceneMembershipRequestSend	56	static
+ScenesClientCommands.c:411:21:eCLD_ScenesCommandEnhancedAddSceneRequestSend	104	static
+ScenesClientCommands.c:460:21:eCLD_ScenesCommandEnhancedViewSceneRequestSend	72	static
+ScenesClientCommands.c:506:21:eCLD_ScenesCommandCopySceneSceneRequestSend	104	static

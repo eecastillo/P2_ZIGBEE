@@ -1,0 +1,4 @@
+DRLCCustomCommandResponsesClient.c:568:15:vSE_DRLCCancelAllLoadControlEvent.isra.0	48	static
+DRLCCustomCommandResponsesClient.c:74:14:vSE_DRLCHandleLoadControlEvent	120	static
+DRLCCustomCommandResponsesClient.c:298:14:vSE_DRLCHandleLoadControlEventCancel	120	static
+DRLCCustomCommandResponsesClient.c:479:14:vSE_DRLCHandleLoadControlEventCancelAll	112	static

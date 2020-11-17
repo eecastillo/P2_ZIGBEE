@@ -1,0 +1,2 @@
+BasicClientCommands.c:77:21:eCLD_BasicCommandResetToFactoryDefaultsSend	40	static
+BasicClientCommands.c:116:21:eCLD_BasicCommandResetToFactoryDefaultsReceive	16	static

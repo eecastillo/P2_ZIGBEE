@@ -1,0 +1,7 @@
+pwrm_shim.c:65:13:PWRM_vInit	8	static
+pwrm_shim.c:95:13:PWRM_vManagePower	8	static
+pwrm_shim.c:147:13:pwrm_vRegisterWakeupCallback	0	static
+pwrm_shim.c:179:13:pwrm_vRegisterPreSleepCallback	0	static
+pwrm_shim.c:210:22:PWRM_eScheduleActivity	16	static
+pwrm_shim.c:228:6:PWRM_vPreSleepCallback	8	static
+pwrm_shim.c:237:6:PWRM_vWakeupCallback	8	static

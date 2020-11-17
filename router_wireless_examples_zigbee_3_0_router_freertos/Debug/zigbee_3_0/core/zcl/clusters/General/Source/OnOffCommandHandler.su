@@ -1,0 +1,4 @@
+OnOffCommandHandler.c:137:22:eCLD_OnOffCommandHandler	96	static
+OnOffCommandHandler.c:271:23:eCLD_OnOffHandleOnCommand	40	static
+OnOffCommandHandler.c:357:23:eCLD_OnOffHandleOffCommand	40	static
+OnOffCommandHandler.c:431:23:eCLD_OnOffHandleToggleCommand	40	static

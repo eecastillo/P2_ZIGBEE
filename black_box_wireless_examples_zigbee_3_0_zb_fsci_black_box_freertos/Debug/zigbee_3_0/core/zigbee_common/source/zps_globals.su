@@ -1,0 +1,12 @@
+zps_globals.c:1259:14:zps_vGetZpsMutex	0	static
+zps_globals.c:1163:14:vZdoServersInit	8	static
+zps_globals.c:1135:13:vZpsGlobalsInit	16	static
+zps_globals.c:1253:14:ZPS_vGetGpContext	0	static
+zps_globals.c:1266:13:ZPS_vGetOptionalFeatures	8	static
+zps_globals.c:1278:14:ZPS_pvAplZdoGetAplHandle	0	static
+zps_globals.c:1283:15:ZPS_u32ApsFcSaveCountBitShift	0	static
+zps_globals.c:1288:41:ZPS_psAplDefaultDistributedAPSLinkKey	0	static
+zps_globals.c:1293:41:ZPS_psAplDefaultGlobalAPSLinkKey	0	static
+zps_globals.c:1298:15:ZPS_u32NwkFcSaveCountBitShift	0	static
+zps_globals.c:1303:14:ZPS_u8ConfigStackProfileId	0	static
+zps_globals.c:1308:29:ZPS_ps_groupPdmTable	0	static

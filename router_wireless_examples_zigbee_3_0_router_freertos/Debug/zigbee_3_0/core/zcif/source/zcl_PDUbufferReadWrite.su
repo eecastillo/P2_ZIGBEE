@@ -1,0 +1,4 @@
+zcl_PDUbufferReadWrite.c:69:15:u16ZCL_APduInstanceWriteNBO	48	static
+zcl_PDUbufferReadWrite.c:116:15:u16ZCL_APduInstanceReadNBO	48	static
+zcl_PDUbufferReadWrite.c:161:15:u16ZCL_WriteTypeNBO	32	static
+zcl_PDUbufferReadWrite.c:211:15:u16ZCL_ReadTypeNBO	48	static

@@ -1,0 +1,8 @@
+bdb_fb_initiator.c:430:22:eFbSendIdentifyQuery	40	static
+bdb_fb_initiator.c:526:14:vFbSendSimpleDescReq	40	static
+bdb_fb_initiator.c:141:21:BDB_eFbTriggerAsInitiator	16	static
+bdb_fb_initiator.c:177:13:BDB_vFbHandleQueryResponse	56	static
+bdb_fb_initiator.c:292:13:BDB_vFbExitAsInitiator	8	static
+bdb_fb_initiator.c:646:14:vFbBindCluster	328	static
+bdb_fb_initiator.c:236:13:vFbZdpHandler	296	static
+bdb_fb_initiator.c:316:13:BDB_vFbTimerCb	120	static

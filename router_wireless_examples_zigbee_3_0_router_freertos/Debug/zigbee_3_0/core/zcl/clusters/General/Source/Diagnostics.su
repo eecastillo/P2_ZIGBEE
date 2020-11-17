@@ -1,0 +1,3 @@
+Diagnostics.c:264:21:eCLD_DiagnosticsCreateDiagnostics	48	static
+Diagnostics.c:387:21:eCLD_DiagnosticsCommandSend	32	static
+Diagnostics.c:561:22:eCLD_DiagnosticsCommandHandler	48	static

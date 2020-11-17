@@ -1,0 +1,3 @@
+IASZoneCommands.c:289:21:eCLD_IASZoneEnrollRespSend	72	static
+IASZoneCommands.c:422:21:eCLD_IASZoneEnrollReqReceive	64	static
+IASZoneCommands.c:461:21:eCLD_IASZoneStatusChangeNotificationReceive	104	static

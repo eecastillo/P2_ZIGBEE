@@ -1,0 +1,11 @@
+OtaSupport.c:186:13:OTA_StartImage	24	static
+OtaSupport.c:247:13:OTA_PushImageChunk	64	static
+OtaSupport.c:337:13:OTA_CommitImage	24	static
+OtaSupport.c:391:6:OTA_SetNewImageFlag	16	static
+OtaSupport.c:447:6:OTA_CancelImage	8	static
+OtaSupport.c:467:10:OTA_CrcCompute	24	static
+OtaSupport.c:496:13:OTA_InitExternalMemory	16	static
+OtaSupport.c:520:13:OTA_EraseExternalMemory	16	static
+OtaSupport.c:541:13:OTA_EraseBlock	32	static
+OtaSupport.c:567:13:OTA_ReadExternalMemory	40	static
+OtaSupport.c:594:13:OTA_WriteExternalMemory	64	static

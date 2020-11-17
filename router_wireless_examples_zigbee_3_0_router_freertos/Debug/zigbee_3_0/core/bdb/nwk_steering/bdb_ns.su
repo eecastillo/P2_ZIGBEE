@@ -1,0 +1,12 @@
+bdb_ns.c:112:21:BDB_eNsStartNwkSteering	80	static
+bdb_ns.c:189:13:BDB_vNsStateMachine	288	static
+bdb_ns.c:382:13:BDB_vNsTimerCb	24	static
+bdb_ns.c:467:14:vNsDiscoverNwk	16	static
+bdb_ns.c:528:14:vNsTerminateNwkSteering	80	static
+bdb_ns.c:550:14:vNsTryNwkJoin	56	static
+bdb_ns.c:627:14:vNsAfterNwkJoin	96	static
+bdb_ns.c:671:14:vNsLeaveNwk	40	static
+bdb_ns.c:699:14:vNsSendPermitJoin	88	static
+bdb_ns.c:741:14:vNsStartTclk	8	static
+bdb_ns.c:760:14:vNsTclkSendNodeDescReq	96	static
+bdb_ns.c:817:14:vNsTclkSendReqKey	32	static

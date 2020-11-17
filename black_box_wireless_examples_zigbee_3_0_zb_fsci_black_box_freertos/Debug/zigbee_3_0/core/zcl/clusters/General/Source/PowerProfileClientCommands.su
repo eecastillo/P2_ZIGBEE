@@ -1,0 +1,2 @@
+PowerProfileClientCommands.c:79:22:eCLD_PPPowerProfileRequestSend	80	static
+PowerProfileClientCommands.c:131:22:eCLD_PPEnergyPhasesScheduleSend	72	static

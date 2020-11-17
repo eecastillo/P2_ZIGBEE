@@ -1,0 +1,5 @@
+zcl_reportStringHandling.c:69:14:vZCL_SetPointerToStringStorage	24	static
+zcl_reportStringHandling.c:117:16:pu8ZCL_GetPointerToStringStorage	16	static
+zcl_reportStringHandling.c:163:13:vZCL_AllocateSpaceForStringReports	16	static
+zcl_reportStringHandling.c:213:21:eZCL_CheckForStringAttributeChange	40	static
+zcl_reportStringHandling.c:314:21:eZCL_CopyStringAttributeToPreviousValue	40	static

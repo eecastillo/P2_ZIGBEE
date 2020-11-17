@@ -1,0 +1,13 @@
+DRLCTableManagerNoMutex.c:81:25:eSE_DRLCAddLoadControlEventNoMutex	56	static
+DRLCTableManagerNoMutex.c:172:25:eSE_DRLCInitialiseReportStructure	24	static
+DRLCTableManagerNoMutex.c:213:25:eSE_DRLCCancelLoadControlEventNoMutex	40	static
+DRLCTableManagerNoMutex.c:295:25:eSE_DRLCOverlapAddEventToScheduler	136	static
+DRLCTableManagerNoMutex.c:514:17:bCheckForEventTimeOverlap	40	static
+DRLCTableManagerNoMutex.c:578:17:bGetEarliestStartTime	24	static
+DRLCTableManagerNoMutex.c:632:15:boSearchForExisting	16	static
+DRLCTableManagerNoMutex.c:664:25:eSE_DRLCFindDRLCCluster	32	static
+DRLCTableManagerNoMutex.c:709:43:psCheckToSeeIfEventExists	32	static
+DRLCTableManagerNoMutex.c:769:43:psGetListHead	32	static
+DRLCTableManagerNoMutex.c:830:25:eSE_DRLCAddToSchedulerList	40	static
+DRLCTableManagerNoMutex.c:874:14:vSimpleAddEventToScheduler	40	static
+DRLCTableManagerNoMutex.c:934:14:vRemoveFromSchedulerList	24	static

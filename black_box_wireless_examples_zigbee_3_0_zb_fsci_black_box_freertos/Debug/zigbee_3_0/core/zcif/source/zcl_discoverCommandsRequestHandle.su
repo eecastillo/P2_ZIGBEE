@@ -1,0 +1,4 @@
+zcl_discoverCommandsRequestHandle.c:138:16:bValidateCommandWithCommandsFlags	0	static
+zcl_discoverCommandsRequestHandle.c:197:15:vZCL_HandleCommandsDiscoverRequest	112	static
+zcl_discoverCommandsRequestHandle.c:83:14:vZCL_HandleDiscoverCommandsReceivedRequest	8	static
+zcl_discoverCommandsRequestHandle.c:111:14:vZCL_HandleDiscoverCommandsGeneratedRequest	8	static

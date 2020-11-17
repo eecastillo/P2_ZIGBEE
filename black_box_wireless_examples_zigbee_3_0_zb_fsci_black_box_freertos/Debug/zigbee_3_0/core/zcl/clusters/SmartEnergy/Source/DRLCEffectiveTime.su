@@ -1,0 +1,6 @@
+DRLCEffectiveTime.c:78:14:vSetRandomizationValues	48	static
+DRLCEffectiveTime.c:127:16:boInEffectiveTimeExtendedEventOperation	0	static
+DRLCEffectiveTime.c:161:14:boInEffectiveActiveTimeCheck	8	static
+DRLCEffectiveTime.c:239:16:u32EffectiveDuration	0	static
+DRLCEffectiveTime.c:204:14:boEffectiveExpiredTimeCheck	8	static
+DRLCEffectiveTime.c:275:16:boCancelTimeCheck	0	static

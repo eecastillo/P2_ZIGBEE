@@ -1,0 +1,11 @@
+core_cm0plus.h:846:22:NVIC_SystemReset	8	static
+app_router_node.c:143:13:APP_vInitialiseRouter	24	static
+app_router_node.c:235:13:APP_vBdbCallback	32	static
+app_router_node.c:309:13:APP_taskRouter	64	static
+app_router_node.c:403:13:APP_vOobcSetRunning	8	static
+app_router_node.c:420:14:vAppHandleAfEvent	16	static
+app_router_node.c:459:14:vAppHandleZdoEvents	56	static
+app_router_node.c:625:13:APP_vFactoryResetRecords	24	static
+app_router_node.c:667:14:APP_vBdbInit	16	static
+app_router_node.c:737:14:vPrintAPSTable	40	static
+app_router_node.c:788:14:app_u8GetDeviceEndpoint	8	static

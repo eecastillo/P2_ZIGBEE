@@ -1,0 +1,5 @@
+zll_utility.c:85:22:eCLD_ZllUtilityCommandEndpointInformationCommandSend	128	static
+zll_utility.c:152:22:eCLD_ZllUtilityCommandGetGroupIdReqCommandSend	80	static
+zll_utility.c:196:22:eCLD_ZllUtilityCommandGetGroupIdRspCommandSend	616	static
+zll_utility.c:254:22:eCLD_ZllUtilityCommandGetEndpointListReqCommandSend	80	static
+zll_utility.c:297:22:eCLD_ZllUtilityCommandGetEndpointListRspCommandSend	432	static

@@ -1,0 +1,3 @@
+bdb_state_machine.c:76:13:APP_vGenCallback	80	static
+bdb_state_machine.c:103:13:bdb_taskBDB	168	static
+bdb_state_machine.c:169:13:BDB_vZclEventHandler	8	static

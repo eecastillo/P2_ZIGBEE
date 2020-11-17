@@ -1,0 +1,2 @@
+zcl_configureReportingCommandHandle.c:75:14:vZCL_HandleConfigureReportingCommand	192	static
+zcl_configureReportingCommandHandle.c:466:14:vZCL_CalculateNumberOfReportRecords	88	static

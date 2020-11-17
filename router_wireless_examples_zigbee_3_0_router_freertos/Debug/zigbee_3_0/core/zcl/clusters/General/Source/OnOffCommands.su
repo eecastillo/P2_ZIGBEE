@@ -1,0 +1,2 @@
+OnOffCommands.c:73:22:eCLD_OnOffCommandSend	64	static
+OnOffCommands.c:210:22:eCLD_OnOffCommandReceive	24	static

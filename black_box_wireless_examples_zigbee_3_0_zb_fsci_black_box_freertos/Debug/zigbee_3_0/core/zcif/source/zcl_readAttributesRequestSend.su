@@ -1,0 +1,2 @@
+zcl_readAttributesRequestSend.c:202:24:eZCL_SendReadAttributesRequest	72	static
+zcl_readAttributesRequestSend.c:71:23:eZCL_HandleReadAttributesResponse	128	static

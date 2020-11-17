@@ -1,0 +1,6 @@
+ZQueue.c:70:13:ZQ_vQueueCreate	24	static
+ZQueue.c:89:15:ZQ_bQueueSend	32	static
+ZQueue.c:157:15:ZQ_bQueueReceive	24	static
+ZQueue.c:219:15:ZQ_bQueueIsEmpty	24	static
+ZQueue.c:232:15:ZQ_u32QueueGetQueueSize	24	static
+ZQueue.c:242:15:ZQ_u32QueueGetQueueMessageWaiting	24	static

@@ -1,0 +1,2 @@
+zcl_CustomCommandSend.c:76:21:eZCL_CustomCommandSend	96	static
+zcl_CustomCommandSend.c:317:13:bZCL_SendCommandResponse	0	static

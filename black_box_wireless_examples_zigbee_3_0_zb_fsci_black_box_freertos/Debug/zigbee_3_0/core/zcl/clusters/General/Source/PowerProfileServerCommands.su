@@ -1,0 +1,2 @@
+PowerProfileServerCommands.c:77:22:eCLD_PPPowerProfileReqReceive	48	static
+PowerProfileServerCommands.c:115:22:eCLD_PPEnergyPhasesScheduleReceive	80	static

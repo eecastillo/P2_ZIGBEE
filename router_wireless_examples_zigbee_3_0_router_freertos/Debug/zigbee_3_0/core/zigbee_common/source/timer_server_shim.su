@@ -1,0 +1,7 @@
+timer_server_shim.c:81:6:vTimerServerInit	8	static
+timer_server_shim.c:99:6:vTimerServerDeinit	8	static
+timer_server_shim.c:109:6:TSV_callback	24	static
+timer_server_shim.c:152:19:TSV_eOpen	32	static
+timer_server_shim.c:174:18:TSV_eStart	48	static
+timer_server_shim.c:247:18:TSV_eStop	32	static
+timer_server_shim.c:280:1:TSV_eClose	32	static

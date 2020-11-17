@@ -1,0 +1,2 @@
+PWRLib.c:1045:27:PWRLib_LVD_CollectLevel	8	static
+PWRLib.c:1217:6:PWRLib_Init	8	static

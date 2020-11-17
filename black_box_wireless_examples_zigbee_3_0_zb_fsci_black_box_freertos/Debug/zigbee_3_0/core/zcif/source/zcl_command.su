@@ -1,0 +1,4 @@
+zcl_command.c:88:15:u16ZCL_WriteCommandHeader	40	static
+zcl_command.c:144:15:u16ZCL_ReadCommandHeader	32	static
+zcl_command.c:195:14:u8GetTransactionSequenceNumber	0	static
+zcl_command.c:276:15:u16ZCL_GetTxPayloadSize	8	static

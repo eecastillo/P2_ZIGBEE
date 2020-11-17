@@ -76,6 +76,8 @@ PRIVATE void APP_vZCL_DeviceSpecific_Init(void);
 /****************************************************************************/
 
 tsZHA_BaseDevice sBaseDevice;
+tsZHA_BaseDevice sBaseDeviceTemp;
+
 
 /****************************************************************************/
 /***        Local Variables                                               ***/
@@ -120,6 +122,16 @@ PUBLIC void APP_ZCL_vInitialise(void)
     {
             DBG_vPrintf(TRACE_ZCL, "Error: eZHA_RegisterBaseDeviceEndPoint: %02x\r\r\n", eZCL_Status);
     }
+
+    /* Register Temp EndPoint*/
+    eZCL_Status =  eZHA_RegisterBaseDeviceEndPoint(ROUTER_TEMPERATURE_ENDPOINT,
+                                                       &APP_ZCL_cbEndpointCallback,
+                                                       &sBaseDeviceTemp);
+    if (eZCL_Status != E_ZCL_SUCCESS)
+       {
+               DBG_vPrintf(TRACE_ZCL, "Error: eZHA_RegisterBaseDeviceEndPoint (Temperature): %02x\r\r\n", eZCL_Status);
+       }
+
 
     APP_vZCL_DeviceSpecific_Init();
 #ifndef CPU_MKW41Z512VHT4
@@ -581,6 +593,9 @@ PRIVATE void APP_vHandleClusterCustomCommands(tsZCL_CallBackEvent *psEvent)
                 eZHA_RegisterBaseDeviceEndPoint(ROUTER_APPLICATION_ENDPOINT,
                                                 &APP_ZCL_cbEndpointCallback,
                                                 &sBaseDevice);
+                eZHA_RegisterBaseDeviceEndPoint(ROUTER_TEMPERATURE_ENDPOINT,
+												&APP_ZCL_cbEndpointCallback,
+												&sBaseDeviceTemp);
             }
             #ifdef CLD_OTA
                 vAppInitOTA();
@@ -643,6 +658,13 @@ PRIVATE void APP_vZCL_DeviceSpecific_Init(void)
     FLib_MemCpy(sBaseDevice.sBasicServerCluster.au8ModelIdentifier, "BDB-Router", CLD_BAS_MODEL_ID_SIZE);
     FLib_MemCpy(sBaseDevice.sBasicServerCluster.au8DateCode, "20150212", CLD_BAS_DATE_SIZE);
     FLib_MemCpy(sBaseDevice.sBasicServerCluster.au8SWBuildID, "1000-0001", CLD_BAS_SW_BUILD_SIZE);
+
+    sBaseDevice.sOnOffServerCluster.bOnOff = FALSE;
+       FLib_MemCpy(sBaseDeviceTemp.sBasicServerCluster.au8ManufacturerName, "NXP", CLD_BAS_MANUF_NAME_SIZE);
+       FLib_MemCpy(sBaseDeviceTemp.sBasicServerCluster.au8ModelIdentifier, "BDB-Temp", CLD_BAS_MODEL_ID_SIZE);
+       FLib_MemCpy(sBaseDeviceTemp.sBasicServerCluster.au8DateCode, "20170310", CLD_BAS_DATE_SIZE);
+       FLib_MemCpy(sBaseDeviceTemp.sBasicServerCluster.au8SWBuildID, "1000-0001", CLD_BAS_SW_BUILD_SIZE);
+
     #ifdef CLD_BAS_ATTR_MANUFACTURER_VERSION_DETAILS
     FLib_MemCpy(sBaseDevice.sBasicServerCluster.au8ManufacturerVersionDetails, "Zigbee_Version_3.0", CLD_BAS_MANUFACTURER_VERSION_SIZE);
     #endif

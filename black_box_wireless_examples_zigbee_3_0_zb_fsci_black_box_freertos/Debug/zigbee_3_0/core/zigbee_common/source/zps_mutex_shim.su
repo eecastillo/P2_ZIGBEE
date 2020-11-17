@@ -1,0 +1,2 @@
+zps_mutex_shim.c:60:7:ZPS_u8GrabMutexLock	8	static
+zps_mutex_shim.c:90:7:ZPS_u8ReleaseMutexLock	8	static

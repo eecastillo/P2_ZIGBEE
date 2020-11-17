@@ -1,0 +1,6 @@
+zcl_timer.c:64:22:eZCL_CreateTimer	32	static
+zcl_timer.c:112:22:eZCL_TimerRegister	32	static
+zcl_timer.c:177:13:vZCL_TimerSchedulerUpdate	32	static
+zcl_timer.c:240:13:vZCL_SetUTCTime	0	static
+zcl_timer.c:272:15:u32ZCL_GetUTCTime	0	static
+zcl_timer.c:304:21:eZCL_UpdateMsTimer	24	static

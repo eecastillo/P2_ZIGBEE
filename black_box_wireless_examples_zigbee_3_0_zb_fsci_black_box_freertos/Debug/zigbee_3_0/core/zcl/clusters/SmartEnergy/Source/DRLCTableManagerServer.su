@@ -1,0 +1,6 @@
+DRLCTableManagerServer.c:497:15:vRemoveAllEventsFromList	24	static
+DRLCTableManagerServer.c:69:25:eSE_DRLCAddLoadControlEvent	56	static
+DRLCTableManagerServer.c:176:25:eSE_DRLCGetLoadControlEvent	48	static
+DRLCTableManagerServer.c:266:25:eSE_DRLCFindLoadControlEventRecord	40	static
+DRLCTableManagerServer.c:335:25:eSE_DRLCCancelLoadControlEvent	56	static
+DRLCTableManagerServer.c:431:25:eSE_DRLCCancelAllLoadControlEvents	48	static

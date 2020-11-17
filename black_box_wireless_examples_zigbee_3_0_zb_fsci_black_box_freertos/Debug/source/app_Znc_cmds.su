@@ -1,0 +1,12 @@
+app_Znc_cmds.c:3272:13:APP_bSendHATransportKey	40	static
+app_Znc_cmds.c:3131:13:APP_vConfigureDevice	24	static
+app_Znc_cmds.c:3165:13:vSetGroupAddress	24	static
+app_Znc_cmds.c:3425:13:APP_vFactoryResetRecords	24	static
+app_Znc_cmds.c:3480:23:APP_eSendWriteAttributesRequest	64	static
+app_Znc_cmds.c:273:13:APP_vProcessIncomingSerialCommands	392	static
+app_Znc_cmds.c:3681:13:APP_vIdentifyEffect	24	static
+app_Znc_cmds.c:3712:13:APP_vIdentifyEffectEnd	16	static
+app_Znc_cmds.c:3733:6:APP_vSaveAllRecords	8	static
+app_Znc_cmds.c:3351:13:APP_vSendJoinedFormEventToHost	40	static
+app_Znc_cmds.c:3202:13:APP_vForceStartRouter	40	static
+app_Znc_cmds.c:3879:13:vHandleIdentifyRequest	16	static

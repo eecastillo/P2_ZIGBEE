@@ -1,0 +1,4 @@
+IdentifyServerCommands.c:79:22:eCLD_IdentifyCommandIdentifyQueryResponseSend	72	static
+IdentifyServerCommands.c:123:22:eCLD_IdentifyCommandIdentifyRequestReceive	56	static
+IdentifyServerCommands.c:158:22:eCLD_IdentifyCommandIdentifyQueryRequestReceive	24	static
+IdentifyServerCommands.c:187:22:eCLD_IdentifyCommandTriggerEffectRequestReceive	72	static

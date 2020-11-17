@@ -1,0 +1,11 @@
+app_general_events_handler.c:106:6:APP_vProcessRxData	8	static
+app_general_events_handler.c:323:13:APP_vHandleStackEvents	432	static
+app_general_events_handler.c:903:13:APP_vSetAddressMode	8	static
+app_general_events_handler.c:925:13:bAddToEndpointTable	40	static
+app_general_events_handler.c:1053:13:APP_vSetAddress	0	static
+app_general_events_handler.c:877:13:vAppIdentifyEffect	40	static
+app_general_events_handler.c:976:13:APP_vAppAddGroup	48	static
+app_general_events_handler.c:128:13:APP_vHandleAppEvents	496	static
+app_general_events_handler.c:1087:13:App_TransportKeyCallback	120	static
+app_general_events_handler.c:1108:13:App_vPollTimerCallback	16	static
+app_general_events_handler.c:1154:13:Znc_vSendDataIndicationToHost	24	static

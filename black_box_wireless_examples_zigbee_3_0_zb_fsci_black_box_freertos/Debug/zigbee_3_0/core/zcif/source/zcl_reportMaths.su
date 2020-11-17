@@ -1,0 +1,3 @@
+zcl_reportMaths.c:444:14:vZCL_AlignNumericAttributeValueTo64	0	static
+zcl_reportMaths.c:69:22:eZCL_IndicateReportableChange	48	static
+zcl_reportMaths.c:156:22:eZCL_StoreChangeAttributeValue	32	static

@@ -1,0 +1,8 @@
+Eeprom_AT45DB041E.c:391:13:EEPROM_Command	16	static
+Eeprom_AT45DB041E.c:263:9:EEPROM_isBusy	32	static
+Eeprom_AT45DB041E.c:104:10:EEPROM_Init	40	static
+Eeprom_AT45DB041E.c:153:10:EEPROM_ChipErase	24	static
+Eeprom_AT45DB041E.c:171:10:EEPROM_EraseBlock	24	static
+Eeprom_AT45DB041E.c:338:17:EEPROM_WritePage.part.0	24	static
+Eeprom_AT45DB041E.c:207:10:EEPROM_WriteData	40	static
+Eeprom_AT45DB041E.c:245:10:EEPROM_ReadData	24	static

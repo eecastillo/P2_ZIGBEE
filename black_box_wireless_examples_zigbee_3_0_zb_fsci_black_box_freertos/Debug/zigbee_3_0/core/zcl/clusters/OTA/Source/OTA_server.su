@@ -1,0 +1,5 @@
+OTA_server.c:65:22:eOTA_ServerImageNotify	112	static
+OTA_server.c:201:22:eOTA_ServerQueryNextImageResponse	120	static
+OTA_server.c:297:22:eOTA_ServerImageBlockResponse	136	static
+OTA_server.c:406:22:eOTA_ServerUpgradeEndResponse	120	static
+OTA_server.c:474:22:eOTA_ServerQuerySpecificFileResponse	120	static

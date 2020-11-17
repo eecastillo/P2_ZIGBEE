@@ -1,0 +1,3 @@
+zcl_discoverCommandsResponseHandle.c:73:13:vZCL_HandleDiscoverCommandsReceivedResponse	24	static
+zcl_discoverCommandsResponseHandle.c:100:13:vZCL_HandleDiscoverCommandsGeneratedResponse	24	static
+zcl_discoverCommandsResponseHandle.c:129:14:vZCL_HandleDiscoverCommandsResponse	120	static

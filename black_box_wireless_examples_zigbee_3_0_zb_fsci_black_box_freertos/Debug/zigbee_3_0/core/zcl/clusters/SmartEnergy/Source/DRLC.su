@@ -1,0 +1,2 @@
+DRLC.c:104:22:eSE_DRLCCreate	48	static
+DRLC.c:207:25:eDRLC_SetCallBackMessage	16	static

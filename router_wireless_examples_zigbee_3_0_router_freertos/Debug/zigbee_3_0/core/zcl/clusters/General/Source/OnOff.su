@@ -1,0 +1,4 @@
+OnOff.c:174:22:eCLD_OnOffCreateOnOff	48	static
+OnOff.c:281:22:eCLD_OnOffSetState	104	static
+OnOff.c:372:22:eCLD_OnOffGetState	48	static
+OnOff.c:588:23:eCLD_OnOffSceneEventHandler	72	static

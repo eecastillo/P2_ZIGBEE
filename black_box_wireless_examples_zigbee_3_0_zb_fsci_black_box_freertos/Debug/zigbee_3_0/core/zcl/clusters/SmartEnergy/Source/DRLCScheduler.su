@@ -1,0 +1,3 @@
+DRLCScheduler.c:64:25:eSE_DRLCRegisterTimeServer	8	static
+DRLCScheduler.c:130:25:eSE_DRLCSchedulerUpdate	64	static
+DRLCScheduler.c:96:15:vSE_DRLCTimerClickCallback	24	static

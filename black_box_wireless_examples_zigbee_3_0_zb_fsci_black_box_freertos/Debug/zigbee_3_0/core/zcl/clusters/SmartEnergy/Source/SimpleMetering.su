@@ -1,0 +1,2 @@
+SimpleMetering.c:930:22:eSE_SMCreate	40	static
+SimpleMetering.c:1107:22:eSE_FindSimpleMeteringCluster	16	static

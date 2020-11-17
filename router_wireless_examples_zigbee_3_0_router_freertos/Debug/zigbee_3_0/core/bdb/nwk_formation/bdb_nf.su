@@ -1,0 +1,12 @@
+bdb_nf.c:112:21:BDB_eNfStartNwkFormation	8	static
+bdb_nf.c:179:13:BDB_vNfStateMachine	88	static
+bdb_nf.c:246:15:BDB_vNfGetNwkAddress	8	static
+bdb_nf.c:262:15:BDB_vNfGetPanID	8	static
+bdb_nf.c:280:13:BDB_vNfSetNwkAddress	16	static
+bdb_nf.c:299:13:BDB_vNfSetPanID	16	static
+bdb_nf.c:322:13:BDB_vNfFormCentralizedNwk	8	static
+bdb_nf.c:344:14:vNfDiscoverNwk	56	static
+bdb_nf.c:386:14:vNfFormDistributedNwk	136	static
+bdb_nf.c:444:14:vNfRetryNwkFormation	80	static
+bdb_nf.c:491:16:bNfSearchDiscNt	40	static
+bdb_nf.c:522:14:vNfTcCallback	96	static

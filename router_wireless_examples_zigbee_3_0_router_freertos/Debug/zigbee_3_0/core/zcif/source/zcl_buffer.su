@@ -1,0 +1,2 @@
+zcl_buffer.c:67:28:hZCL_AllocateAPduInstance	64	static
+zcl_buffer.c:103:20:hZCL_GetBufferPoolHandle	16	static

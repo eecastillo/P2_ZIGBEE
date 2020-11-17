@@ -1,0 +1,5 @@
+bdb_DeviceCommissioning.c:79:21:BDB_eOutOfBandCommissionGetDataEncrypted	96	static
+bdb_DeviceCommissioning.c:169:14:BDB_u8OutOfBandCommissionStartDevice	120	static
+bdb_DeviceCommissioning.c:297:13:BDB_vOutOfBandCommissionGetData	16	static
+bdb_DeviceCommissioning.c:328:15:BDB_bOutOfBandCommissionGetKey	80	static
+bdb_DeviceCommissioning.c:392:13:BDB_vOutOfBandCommissionHandleEvent	88	static

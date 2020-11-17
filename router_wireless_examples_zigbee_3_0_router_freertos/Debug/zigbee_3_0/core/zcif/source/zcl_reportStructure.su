@@ -1,0 +1,3 @@
+zcl_reportStructure.c:68:21:eZCL_WriteToAttributeReportableStructure	32	static
+zcl_reportStructure.c:233:21:eZCL_GetAttributeReportableEntry	24	static
+zcl_reportStructure.c:397:21:eZCL_DoesAttributeHaveReportableChange	16	static

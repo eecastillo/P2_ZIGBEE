@@ -1,0 +1,10 @@
+FsciCommunication.c:923:13:FSCI_RxRxTimeoutCb	0	static
+FsciCommunication.c:150:6:FSCI_commInit	16	static
+FsciCommunication.c:937:13:FSCI_SendPacketToSerialManager	16	static
+FsciCommunication.c:705:10:FSCI_GetVirtualInterface	0	static
+FsciCommunication.c:809:9:FSCI_computeChecksum	8	static
+FsciCommunication.c:529:6:FSCI_transmitFormatedPacket	16	static
+FsciCommunication.c:569:6:FSCI_transmitPayload	40	static
+FsciCommunication.c:651:10:FSCI_GetFormattedPacket	40	static
+FsciCommunication.c:724:21:FSCI_checkPacket	32	static
+FsciCommunication.c:265:6:FSCI_receivePacket	48	static

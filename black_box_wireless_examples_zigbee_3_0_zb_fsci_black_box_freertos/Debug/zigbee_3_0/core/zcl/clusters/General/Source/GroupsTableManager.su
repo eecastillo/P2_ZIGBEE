@@ -1,0 +1,9 @@
+GroupsTableManager.c:725:15:bCLD_GroupsSearchForGroup	24	static
+GroupsTableManager.c:118:21:eCLD_GroupsAddGroupCheckRange	32	static
+GroupsTableManager.c:91:21:eCLD_GroupsAddGroup	8	static
+GroupsTableManager.c:305:21:eCLD_GroupsFindGroup	32	static
+GroupsTableManager.c:370:13:iCLD_GroupsListGroups	32	static
+GroupsTableManager.c:413:13:iCLD_GroupsCountGroups	24	static
+GroupsTableManager.c:458:13:iCLD_GroupsListMatchingGroups	48	static
+GroupsTableManager.c:521:22:eCLD_GroupsRemoveGroup	24	static
+GroupsTableManager.c:621:22:eCLD_GroupsRemoveAllGroups	24	static

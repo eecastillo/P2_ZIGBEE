@@ -1,0 +1,2 @@
+DRLCCommandLoadControlEvent.c:71:25:eSE_DRLCLoadControlEventSend	184	static
+DRLCCommandLoadControlEvent.c:143:25:eSE_DRLCLoadControlEventReceive	264	static

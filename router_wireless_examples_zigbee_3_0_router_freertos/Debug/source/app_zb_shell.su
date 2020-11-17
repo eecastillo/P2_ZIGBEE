@@ -1,0 +1,17 @@
+app_zb_shell.c:327:6:app_zb_shell_init	8	static
+app_zb_shell.c:341:6:app_zb_shell_task	8	static
+app_zb_shell.c:364:15:SHELL_Reboot	16	static
+app_zb_shell.c:384:15:SHELL_FactoryResetReq	56	static
+app_zb_shell.c:410:15:SHELL_FormReq	32	static
+app_zb_shell.c:482:15:SHELL_FindReq	32	static
+app_zb_shell.c:514:15:SHELL_SteerReq	32	static
+app_zb_shell.c:538:15:SHELL_JoinReq	32	static
+app_zb_shell.c:562:15:SHELL_IdentifyReq	64	static
+app_zb_shell.c:609:15:SHELL_ToggleReq	64	static
+app_zb_shell.c:642:15:SHELL_PrintAPSTableReq	16	static
+app_zb_shell.c:702:15:SHELL_ChannelReq	32	static
+app_zb_shell.c:744:15:SHELL_PanIdReq	32	static
+app_zb_shell.c:783:15:SHELL_EpidReq	32	static
+app_zb_shell.c:802:15:SHELL_ShortAddrReq	32	static
+app_zb_shell.c:827:15:SHELL_ExtendedAddrReq	32	static
+app_zb_shell.c:875:13:vPrintAPSTable	40	static

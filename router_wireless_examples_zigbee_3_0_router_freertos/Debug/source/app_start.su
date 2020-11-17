@@ -1,0 +1,4 @@
+app_start.c:98:13:vAppMain	8	static
+app_start.c:151:6:vAppRegisterPWRMCallbacks	8	static
+app_start.c:171:14:APP_vInitialise	8	static
+app_start.c:200:14:vfExtendedStatusCallBack	16	static

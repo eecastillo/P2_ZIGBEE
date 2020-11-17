@@ -1,0 +1,6 @@
+FsciMain.c:70:6:FSCI_Init	8	static
+FsciMain.c:272:17:FSCI_GetReqOpGroup	16	static
+FsciMain.c:132:15:FSCI_Monitor	24	static
+FsciMain.c:185:15:FSCI_CallRegisteredFunc	24	static
+FsciMain.c:85:15:FSCI_ProcessRxPkt	16	static
+FsciMain.c:230:15:FSCI_RegisterOpGroup	32	static

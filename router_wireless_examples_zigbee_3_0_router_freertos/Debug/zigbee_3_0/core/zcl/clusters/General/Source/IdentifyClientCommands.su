@@ -1,0 +1,4 @@
+IdentifyClientCommands.c:79:22:eCLD_IdentifyCommandIdentifyRequestSend	72	static
+IdentifyClientCommands.c:123:22:eCLD_IdentifyCommandIdentifyQueryRequestSend	64	static
+IdentifyClientCommands.c:164:22:eCLD_IdentifyCommandTriggerEffectSend	80	static
+IdentifyClientCommands.c:210:22:eCLD_IdentifyCommandIdentifyQueryResponseReceive	56	static

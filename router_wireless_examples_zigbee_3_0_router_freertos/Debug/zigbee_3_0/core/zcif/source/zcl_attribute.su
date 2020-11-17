@@ -1,0 +1,12 @@
+zcl_attribute.c:71:15:u16ZCL_WriteAttributeValueIntoBuffer	64	static
+zcl_attribute.c:150:15:u16ZCL_WriteAttributeValueIntoStructure	56	static
+zcl_attribute.c:245:14:u8ZCL_GetAttributeAllignToFourBytesBoundary	16	static
+zcl_attribute.c:299:21:eZCL_GetAttributeTypeSize	16	static
+zcl_attribute.c:330:21:eZCL_GetAttributeTypeSizeFromBuffer	64	static
+zcl_attribute.c:404:21:eZCL_GetAttributeTypeSizeFromStructure	64	static
+zcl_attribute.c:457:15:bZCL_CheckManufacturerSpecificAttributeFlagMatch	24	static
+zcl_attribute.c:502:15:bZCL_CheckStringFitsInStructure	56	static
+zcl_attribute.c:575:13:bZCL_AttributeTypeIsSigned	16	static
+zcl_attribute.c:601:21:bZCL_CheckAttributeInvalid	40	static
+zcl_attribute.c:638:13:vZCL_MarkAttributeInvalid	48	static
+zcl_attribute.c:744:15:bZCL_CheckAttributeDirectionFlagMatch	16	static

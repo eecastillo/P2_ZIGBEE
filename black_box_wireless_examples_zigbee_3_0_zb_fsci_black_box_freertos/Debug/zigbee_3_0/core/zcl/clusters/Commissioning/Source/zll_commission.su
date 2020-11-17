@@ -1,0 +1,16 @@
+zll_commission.c:783:14:vWriteU32ToPayLoad	0	static
+zll_commission.c:804:14:vWriteU64ToPayLoad	0	static
+zll_commission.c:88:22:eCLD_ZllCommissionCreateCommission	40	static
+zll_commission.c:143:22:eCLD_ZllCommissionCommandScanReqCommandSend	56	static
+zll_commission.c:187:22:eCLD_ZllCommissionCommandScanRspCommandSend	88	static
+zll_commission.c:249:22:eCLD_ZllCommissionCommandDeviceInfoReqCommandSend	56	static
+zll_commission.c:275:22:eCLD_ZllCommissionCommandDeviceInfoRspCommandSend	152	static
+zll_commission.c:342:22:eCLD_ZllCommissionCommandDeviceIndentifyReqCommandSend	56	static
+zll_commission.c:384:22:eCLD_ZllCommissionCommandFactoryResetReqCommandSend	48	static
+zll_commission.c:424:22:eCLD_ZllCommissionCommandNetworkStartReqCommandSend	112	static
+zll_commission.c:478:22:eCLD_ZllCommissionCommandNetworkStartRspCommandSend	72	static
+zll_commission.c:523:22:eCLD_ZllCommissionCommandNetworkJoinRouterReqCommandSend	104	static
+zll_commission.c:577:22:eCLD_ZllCommissionCommandNetworkJoinRouterRspCommandSend	56	static
+zll_commission.c:618:22:eCLD_ZllCommissionCommandNetworkJoinEndDeviceReqCommandSend	104	static
+zll_commission.c:672:22:eCLD_ZllCommissionCommandNetworkJoinEndDeviceRspCommandSend	56	static
+zll_commission.c:713:22:eCLD_ZllCommissionCommandNetworkUpdateReqCommandSend	72	static

@@ -1,0 +1,6 @@
+zcl_reportScheduler.c:80:13:vReportTimerClickCallback	16	static
+zcl_reportScheduler.c:100:14:vReportSchedulerUpdate	168	static
+zcl_reportScheduler.c:328:16:bHasTimerFired	16	static
+zcl_reportScheduler.c:352:16:bPeriodicTimerFired	24	static
+zcl_reportScheduler.c:396:16:bReportableDifferenceTimerFired	24	static
+zcl_reportScheduler.c:432:14:bIsClusterBound	24	static

@@ -1,0 +1,8 @@
+SerialLink.c:591:14:vLogPutch	12	static
+SerialLink.c:232:13:vSL_WriteMessage	32	static
+SerialLink.c:316:13:vSL_LogSend	40	static
+SerialLink.c:418:13:vSL_WriteLog	32	static
+SerialLink.c:505:13:vSL_LogFlush	8	static
+SerialLink.c:525:13:vSL_LogInit	0	static
+SerialLink.c:558:14:u8SL_CalculateCRC	8	static
+SerialLink.c:112:13:bSL_ReadMessage	40	static

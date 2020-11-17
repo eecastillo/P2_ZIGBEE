@@ -1,0 +1,16 @@
+appZpsExtendedDebug.c:81:13:vDisplayTableSizes	16	static
+appZpsExtendedDebug.c:131:13:vDisplayAddressMapTable	24	static
+appZpsExtendedDebug.c:166:13:vDisplayNT	136	static
+appZpsExtendedDebug.c:209:13:vClearNTEntry	32	static
+appZpsExtendedDebug.c:240:13:vDisplayAPSTable	24	static
+appZpsExtendedDebug.c:277:13:vClearDiscNT	16	static
+appZpsExtendedDebug.c:300:13:vRemoveCoordParents	16	static
+appZpsExtendedDebug.c:328:13:vDisplayDiscNT	24	static
+appZpsExtendedDebug.c:378:13:bInRoutingTable	24	static
+appZpsExtendedDebug.c:408:13:vDisplayRoutingTable	24	static
+appZpsExtendedDebug.c:438:13:vClearRoutingTable	16	static
+appZpsExtendedDebug.c:466:13:vDisplayRouteRecordTable	16	static
+appZpsExtendedDebug.c:494:13:vClearRouteRecordTable	16	static
+appZpsExtendedDebug.c:525:6:vDisplayNWKKey	32	static
+appZpsExtendedDebug.c:559:13:vDisplayNWKTransmitTable	8	static
+appZpsExtendedDebug.c:582:13:vDisplayBindingTable	48	static

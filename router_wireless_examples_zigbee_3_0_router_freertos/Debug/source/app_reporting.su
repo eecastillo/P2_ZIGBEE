@@ -1,0 +1,6 @@
+app_reporting.c:91:21:eRestoreReports	24	static
+app_reporting.c:117:13:vMakeSupportedAttributesReportable	64	static
+app_reporting.c:158:13:vLoadDefaultConfigForReportable	16	static
+app_reporting.c:203:13:vSaveReportableRecord	72	static
+app_reporting.c:239:15:u8GetRecordIndex	24	static
+app_reporting.c:256:13:vRestoreDefaultRecord	72	static
