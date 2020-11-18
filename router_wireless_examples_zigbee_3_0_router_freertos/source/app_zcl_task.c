@@ -31,7 +31,7 @@
 #include "app_router_node.h"
 #include "app_common.h"
 #include "app_main.h"
-#include "base_device.h"
+//#include "base_device.h"
 #include "app_events.h"
 #include <string.h>
 #include "app_reporting.h"
@@ -85,7 +85,7 @@ tsZHA_BaseDevice sBaseDeviceTemp;
 PRIVATE uint8 u8IdentifyCount = 0;
 PRIVATE bool_t bIdentifyState = FALSE;
 
-
+uint8_t pinas = 0;
 /****************************************************************************
  *
  * NAME: APP_ZCL_vInitialise
@@ -344,10 +344,15 @@ PRIVATE void APP_ZCL_cbEndpointCallback(tsZCL_CallBackEvent *psEvent)
 
         case E_ZCL_CBET_READ_ATTRIBUTES_RESPONSE:
             DBG_vPrintf(TRACE_ZCL, "\r\nEP EVT: Read attributes response");
+
             break;
 
         case E_ZCL_CBET_READ_REQUEST:
             DBG_vPrintf(TRACE_ZCL, "\r\nEP EVT: Read request");
+            //  if(psEvent->uMessage.sClusterCustomMessage.u16ClusterId == HA_TEMPMEASUREMENT_CLUSTER_ID )
+                            sBaseDeviceTemp.sTemperatureMeasurementServerCluster.i16MeasuredValue = pinas;
+                            pinas++;
+
             break;
 
         case E_ZCL_CBET_DEFAULT_RESPONSE:
@@ -544,6 +549,7 @@ PRIVATE void APP_vHandleClusterCustomCommands(tsZCL_CallBackEvent *psEvent)
 {
       switch(psEvent->uMessage.sClusterCustomMessage.u16ClusterId)
     {
+
         case GENERAL_CLUSTER_ID_ONOFF:
         {
 #ifndef CPU_MKW41Z512VHT4

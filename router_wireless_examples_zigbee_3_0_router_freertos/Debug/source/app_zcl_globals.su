@@ -1,2 +1,2 @@
-app_zcl_globals.c:169:15:ZPS_pu8MaxZpsConfigEp	8	static
-app_zcl_globals.c:174:15:ZPS_pau8EpMapPresent	8	static
+app_zcl_globals.c:167:15:ZPS_pu8MaxZpsConfigEp	8	static
+app_zcl_globals.c:172:15:ZPS_pau8EpMapPresent	8	static

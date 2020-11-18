@@ -71,14 +71,12 @@ PRIVATE const uint16 s_au16Endpoint1OutputClusterList[4] = { 0x0000, 0x0004, 0x0
 PRIVATE uint8 s_au8Endpoint1OutputClusterDiscFlags[1] = { 0x00 };
 
 //////////////////////////////////////////
-PRIVATE const uint16 s_au16Endpoint2InputClusterList[5] = { HA_BASIC_CLUSTER_ID, HA_GROUPS_CLUSTER_ID, HA_IDENTIFY_CLUSTER_ID,\
- HA_ONOFF_CLUSTER_ID, HA_DEFAULT_CLUSTER_ID, };
-PRIVATE const PDUM_thAPdu s_ahEndpoint2InputClusterAPdus[5] = { apduZCL, apduZCL, apduZCL, apduZCL, apduZCL, };
-PRIVATE uint8 s_au8Endpoint2InputClusterDiscFlags[1] = { 0x05 };
+PRIVATE const uint16 s_au16Endpoint2InputClusterList[6] = { 0x0000, 0x0004, 0x0003, 0x0006, HA_TEMPMEASUREMENT_CLUSTER_ID , 0xffff, };
+PRIVATE const PDUM_thAPdu s_ahEndpoint2InputClusterAPdus[6] = { apduZCL, apduZCL, apduZCL, apduZCL, apduZCL, apduZCL, };
+PRIVATE uint8 s_au8Endpoint2InputClusterDiscFlags[1] = { 0x1f };
 
-PRIVATE const uint16 s_au16Endpoint2OutputClusterList[4] = { HA_BASIC_CLUSTER_ID, HA_GROUPS_CLUSTER_ID, HA_IDENTIFY_CLUSTER_ID,\
- HA_ONOFF_CLUSTER_ID, };
-PRIVATE uint8 s_au8Endpoint2OutputClusterDiscFlags[1] = { 0x0f };
+PRIVATE const uint16 s_au16Endpoint2OutputClusterList[5] = { 0x0000, 0x0004, 0x0003, 0x0006, HA_TEMPMEASUREMENT_CLUSTER_ID, };
+PRIVATE uint8 s_au8Endpoint2OutputClusterDiscFlags[1] = { 0x08 };
 /////////////////////////////////////////
 
 PUBLIC zps_tsAplAfSimpleDescCont s_asSimpleDescConts[3] = {
@@ -120,8 +118,8 @@ PUBLIC zps_tsAplAfSimpleDescCont s_asSimpleDescConts[3] = {
 			0,
 			1,
 			2,
+			6,
 			5,
-			4,
 			(uint16*)s_au16Endpoint2InputClusterList,
 			(uint16*)s_au16Endpoint2OutputClusterList,
 			s_au8Endpoint2InputClusterDiscFlags,

@@ -37,15 +37,15 @@ extern "C" {
 #include "TemperatureMeasurement.h"
 #endif
 
-/* Temperature Measurement Instance */
-#if (defined CLD_TEMPERATURE_MEASUREMENT) && (defined TEMPERATURE_MEASUREMENT_SERVER)
- tsZCL_ClusterInstance sTemperatureMeasurementServer;
-#endif
-
-
-#if (defined CLD_TEMPERATURE_MEASUREMENT) && (defined TEMPERATURE_MEASUREMENT_SERVER)
- tsCLD_TemperatureMeasurement sTemperatureMeasurementServerCluster;
-#endif
+///* Temperature Measurement Instance */
+//#if (defined CLD_TEMPERATURE_MEASUREMENT) && (defined TEMPERATURE_MEASUREMENT_SERVER)
+// //tsZCL_ClusterInstance sTemperatureMeasurementServer;
+//#endif
+//
+////
+////#if (defined CLD_TEMPERATURE_MEASUREMENT) && (defined TEMPERATURE_MEASUREMENT_SERVER)
+//// tsCLD_TemperatureMeasurement sTemperatureMeasurementServerCluster;
+////#endif
 
 /****************************************************************************/
 /***        Macro Definitions                                             ***/
@@ -98,6 +98,7 @@ typedef struct
 #if (defined CLD_OTA) && (defined OTA_CLIENT)
     tsZCL_ClusterInstance sOTAClient;
 #endif
+
 } tsZHA_BaseDeviceClusterInstances; 
 #pragma pack(pop)
 #else
@@ -141,6 +142,10 @@ typedef struct
 #if (defined CLD_OTA) && (defined OTA_CLIENT)
     tsZCL_ClusterInstance sOTAClient;
 #endif
+    /* Temperature Measurement Instance */
+        #if (defined CLD_TEMPERATURE_MEASUREMENT) && (defined TEMPERATURE_MEASUREMENT_SERVER)
+         tsZCL_ClusterInstance sTemperatureMeasurementServer;
+        #endif
 } tsZHA_BaseDeviceClusterInstances __attribute__ ((aligned(4)));
 #endif
 
@@ -202,6 +207,10 @@ typedef struct
     /* OTA cluster - Client */
     tsCLD_AS_Ota sCLD_OTA;
     tsOTA_Common sCLD_OTA_CustomDataStruct;
+#endif
+
+#if (defined CLD_TEMPERATURE_MEASUREMENT) && (defined TEMPERATURE_MEASUREMENT_SERVER)
+ tsCLD_TemperatureMeasurement sTemperatureMeasurementServerCluster;
 #endif
 } tsZHA_BaseDevice;
 

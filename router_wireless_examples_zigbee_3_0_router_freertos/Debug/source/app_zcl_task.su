@@ -1,0 +1,11 @@
+app_zcl_task.c:100:13:APP_ZCL_vInitialise	24	static
+app_zcl_task.c:167:13:APP_ZCL_vSetIdentifyTime	16	static
+app_zcl_task.c:184:13:APP_cbTimerZclTick	64	static
+app_zcl_task.c:234:13:APP_ZCL_vEventHandler	72	static
+app_zcl_task.c:260:14:APP_ZCL_cbGeneralCallback	16	static
+app_zcl_task.c:325:14:APP_ZCL_cbEndpointCallback	72	static
+app_zcl_task.c:448:13:APP_vHandleIdentify	16	static
+app_zcl_task.c:503:13:vIdEffectTick	16	static
+app_zcl_task.c:548:14:APP_vHandleClusterCustomCommands	24	static
+app_zcl_task.c:633:14:APP_vHandleClusterUpdate	24	static
+app_zcl_task.c:660:14:APP_vZCL_DeviceSpecific_Init	8	static
