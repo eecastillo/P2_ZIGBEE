@@ -1,6 +1,6 @@
 fsl_cop.h:165:20:COP_Disable	16	static
 fsl_rcm.h:271:24:RCM_GetPreviousResetSources	16	static
 app_main.c:137:6:main_task	16	static
-app_main.c:219:14:APP_vSetUpWdog	16	static
-app_main.c:252:13:APP_vInitResources	8	static
-app_main.c:294:14:KBD_Callback	40	static
+app_main.c:222:14:APP_vSetUpWdog	16	static
+app_main.c:255:13:APP_vInitResources	8	static
+app_main.c:297:14:KBD_Callback	40	static

@@ -155,6 +155,9 @@ void main_task (uint32_t parameter)
         /* Initialize Keyboard (Switches) Module */
         KBD_Init(KBD_Callback);
 
+        /**Init ADC*/
+        BOARD_InitAdc();
+
         /* Wdog/Cop Setup */
         APP_vSetUpWdog();
 

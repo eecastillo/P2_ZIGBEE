@@ -1,4 +1,4 @@
-17:53:57 **** Incremental Build of configuration Debug for project black_box_wireless_examples_zigbee_3_0_zb_fsci_black_box_freertos ****
+16:38:32 **** Incremental Build of configuration Debug for project black_box_wireless_examples_zigbee_3_0_zb_fsci_black_box_freertos ****
 make -r -j12 all 
 Building file: ../startup/startup_MKW41Z4.S
 Invoking: MCU Assembler
@@ -25,5 +25,5 @@ arm-none-eabi-size "black_box_wireless_examples_zigbee_3_0_zb_fsci_black_box_fre
  254976	  69015	  38032	 362023	  58627	black_box_wireless_examples_zigbee_3_0_zb_fsci_black_box_freertos.axf
  
 
-17:54:02 Build Finished. 0 errors, 0 warnings. (took 5s.114ms)
+16:38:36 Build Finished. 0 errors, 0 warnings. (took 4s.549ms)
 
