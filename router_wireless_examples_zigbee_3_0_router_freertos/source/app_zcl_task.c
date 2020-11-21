@@ -350,7 +350,7 @@ PRIVATE void APP_ZCL_cbEndpointCallback(tsZCL_CallBackEvent *psEvent)
         case E_ZCL_CBET_READ_REQUEST:
             DBG_vPrintf(TRACE_ZCL, "\r\nEP EVT: Read request");
             //  if(psEvent->uMessage.sClusterCustomMessage.u16ClusterId == HA_TEMPMEASUREMENT_CLUSTER_ID )
-			sBaseDeviceTemp.sTemperatureMeasurementServerCluster.i16MeasuredValue = (int16) (BOARD_GetTemperature());
+			sBaseDeviceTemp.sTemperatureMeasurementServerCluster.i16MeasuredValue = (int16) (100 * BOARD_GetTemperature());
 			//pinas++;
 
             break;
